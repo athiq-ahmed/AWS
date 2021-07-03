@@ -1,1 +1,1 @@
-# Udacity
+# AWS Machine Learning Foundations - Udacity
